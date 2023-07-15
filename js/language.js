@@ -96,7 +96,7 @@ const langArr = {
     },
     "index_carus_text_tur":{
         "uz":"Turkiya",
-        "ru":"Турикя",
+        "ru":"Турция",
         "en":"Turkey"
     },
     "index_carus_btn_more_chin1":{
